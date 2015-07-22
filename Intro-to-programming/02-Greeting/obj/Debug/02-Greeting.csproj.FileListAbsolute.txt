@@ -1,0 +1,5 @@
+D:\Programming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.exe.config
+D:\Programming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.exe
+D:\Programming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.pdb
+D:\Programming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.exe
+D:\Programming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.pdb
