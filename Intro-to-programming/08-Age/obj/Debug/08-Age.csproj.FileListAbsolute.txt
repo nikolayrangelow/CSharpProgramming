@@ -1,0 +1,5 @@
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\08-Age\bin\Debug\08-Age.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\08-Age\bin\Debug\08-Age.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\08-Age\bin\Debug\08-Age.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\08-Age\obj\Debug\08-Age.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\08-Age\obj\Debug\08-Age.pdb

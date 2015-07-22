@@ -1,0 +1,6 @@
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\bin\Debug\05-DateAndTime.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\bin\Debug\05-DateAndTime.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\bin\Debug\05-DateAndTime.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\obj\Debug\05-DateAndTime.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\obj\Debug\05-DateAndTime.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\05-DateAndTime\obj\Debug\05-DateAndTime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\06-Math-Sqrt\bin\Debug\06-Math-Sqrt.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\06-Math-Sqrt\bin\Debug\06-Math-Sqrt.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\06-Math-Sqrt\bin\Debug\06-Math-Sqrt.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\06-Math-Sqrt\obj\Debug\06-Math-Sqrt.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\06-Math-Sqrt\obj\Debug\06-Math-Sqrt.pdb

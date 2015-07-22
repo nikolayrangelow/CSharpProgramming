@@ -1,0 +1,6 @@
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\bin\Debug\03-Display-name.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\bin\Debug\03-Display-name.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\bin\Debug\03-Display-name.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\obj\Debug\03-Display-name.csprojResolveAssemblyReference.cache
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\obj\Debug\03-Display-name.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\03-Display-name\obj\Debug\03-Display-name.pdb

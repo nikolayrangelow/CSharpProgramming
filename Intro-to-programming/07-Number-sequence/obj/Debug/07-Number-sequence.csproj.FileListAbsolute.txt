@@ -1,0 +1,5 @@
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\07-Number-sequence\bin\Debug\07-Number-sequence.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\07-Number-sequence\bin\Debug\07-Number-sequence.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\07-Number-sequence\bin\Debug\07-Number-sequence.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\07-Number-sequence\obj\Debug\07-Number-sequence.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\07-Number-sequence\obj\Debug\07-Number-sequence.pdb
