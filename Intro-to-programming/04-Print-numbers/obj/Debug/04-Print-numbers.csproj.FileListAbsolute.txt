@@ -1,5 +1,6 @@
 D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\bin\Debug\04-Print-numbers.exe.config
 D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\bin\Debug\04-Print-numbers.exe
 D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\bin\Debug\04-Print-numbers.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\obj\Debug\04-Print-numbers.csprojResolveAssemblyReference.cache
 D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\obj\Debug\04-Print-numbers.exe
 D:\Programming\Repos\CSharpProgramming\Intro-to-programming\04-Print-numbers\obj\Debug\04-Print-numbers.pdb

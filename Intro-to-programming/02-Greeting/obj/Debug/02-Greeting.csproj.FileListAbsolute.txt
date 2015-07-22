@@ -3,3 +3,9 @@ D:\Programming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.exe
 D:\Programming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.pdb
 D:\Programming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.exe
 D:\Programming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.exe.config
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\bin\Debug\02-Greeting.pdb
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.csprojResolveAssemblyReference.cache
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.exe
+D:\Programming\Repos\CSharpProgramming\Intro-to-programming\02-Greeting\obj\Debug\02-Greeting.pdb
